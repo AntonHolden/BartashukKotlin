@@ -1,0 +1,1 @@
+C:\Users\Антон\Desktop\СП\GIT\BartashukKotlin\HW1\build\classes\kotlin\main\MainKt.class;C:\Users\Антон\Desktop\СП\GIT\BartashukKotlin\HW1\build\classes\kotlin\main\Prime$sequence$1.class;C:\Users\Антон\Desktop\СП\GIT\BartashukKotlin\HW1\build\classes\kotlin\main\Prime.class
