@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="PrimeSequenceTests" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-03-06T18:47:46" hostname="DESKTOP-452VEF0" time="5.526">
+<testsuite name="PrimeSequenceTests" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-03-07T18:30:01" hostname="DESKTOP-452VEF0" time="4.863">
   <properties/>
-  <testcase name="0Test" classname="PrimeSequenceTests" time="0.129"/>
-  <testcase name="NegativeNumbersTest" classname="PrimeSequenceTests" time="0.001"/>
+  <testcase name="0Test" classname="PrimeSequenceTests" time="0.166"/>
+  <testcase name="NegativeNumbersTest" classname="PrimeSequenceTests" time="0.002"/>
   <testcase name="OnePrimeNumberTest" classname="PrimeSequenceTests" time="0.001"/>
-  <testcase name="BigCompositeNumberTest" classname="PrimeSequenceTests" time="4.208"/>
-  <testcase name="CacheTest" classname="PrimeSequenceTests" time="1.113"/>
-  <testcase name="BigPrimeNumberTest" classname="PrimeSequenceTests" time="0.051"/>
+  <testcase name="BigCompositeNumberTest" classname="PrimeSequenceTests" time="3.367"/>
+  <testcase name="CacheTest" classname="PrimeSequenceTests" time="1.261"/>
+  <testcase name="BigPrimeNumberTest" classname="PrimeSequenceTests" time="0.047"/>
   <testcase name="OneCompositeNumberTest" classname="PrimeSequenceTests" time="0.001"/>
-  <testcase name="1To100Test" classname="PrimeSequenceTests" time="0.004"/>
+  <testcase name="1To100Test" classname="PrimeSequenceTests" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
