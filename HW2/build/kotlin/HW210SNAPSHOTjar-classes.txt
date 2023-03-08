@@ -1,0 +1,1 @@
+C:\Users\Антон\Desktop\СП\HW2\build\classes\kotlin\main\Base.class;C:\Users\Антон\Desktop\СП\HW2\build\classes\kotlin\main\BaseImpl.class;C:\Users\Антон\Desktop\СП\HW2\build\classes\kotlin\main\Derived.class;C:\Users\Антон\Desktop\СП\HW2\build\classes\kotlin\main\MainKt.class
